@@ -10,6 +10,12 @@ This is a MongoDB-based API for an ecommerce platform admin to manage product in
 
 - Node.js (https://nodejs.org/)
 - MongoDB (https://www.mongodb.com/)
+- A web browser (e.g. Google Chrome, Firefox, Safari)
+- An internet connection
+
+
+
+
 
 ## Hosting site 
 
